@@ -19,33 +19,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hensuixingderen&layout=compact&theme=tokyonight)
 
-## 🛠️ 技术栈 & 工具
-
-<!-- 根据你的实际情况修改下面的链接和文字 -->
-<div align="center">
-  
-  <!-- 后端 -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <!-- 工具 & 其他 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  
-</div>
 
 
+## 🌟 精选项目
 
+| 项目名称 | 描述 | 技术栈 |
+| :--- | :--- | :--- |
+| **[你的项目名1]** | 这是一个基于 Spring Boot + Vue 的管理系统 | `Java` `Vue` `MySQL` |
+| **[你的项目名2]** | 个人博客系统，支持 Markdown 渲染 | `Node.js` `Express` |
+| **[你的项目名3]** | 一些实用的算法练习集合 | `Python` `Algorithms` |
 
-
-
+> 💡 *把上面的 `[你的项目名]` 换成你真实的仓库链接，例如 `[MyBlog](https://github.com/Hensuixingderen/MyBlog)`*
 
 
 
