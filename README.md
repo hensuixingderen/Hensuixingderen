@@ -1,6 +1,5 @@
 # 👋 你好，我是王鹏林 @Hensuixingderen！
 
-![Profile View](https://komarev.com/ghpvc/?username=Hensuixingderen&label=Profile+Views&color=0e75b6&style=flat)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hensuixingderen&theme=tokyonight)
 
 > “代码不止是字符，更是构建世界的积木。” 🧱  
