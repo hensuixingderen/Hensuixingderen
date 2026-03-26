@@ -95,22 +95,6 @@
 
 ---
 
-### 📬 Let's Connect
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=YOUR_QQ&site=qq&menu=yes">
-    <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" />
-  </a>
-  <a href="https://space.bilibili.com/YOUR_BILIBILI_ID">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://yourblog.com">
-    <img src="https://img.shields.io/badge/Blog-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
-  </a>
-</div>
 
 <p align="center">
   <sub>Built with ❤️ by Hensuixingderen | Powered by GitHub & Markdown</sub>
