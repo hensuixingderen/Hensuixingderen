@@ -19,6 +19,37 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hensuixingderen&layout=compact&theme=tokyonight)
 
+## 🛠️ 技术栈 & 工具
+
+<!-- 根据你的实际情况修改下面的链接和文字 -->
+<div align="center">
+  
+  <!-- 后端 -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- 前端 -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <!-- 工具 & 其他 -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  
+</div>
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📊 我的 GitHub 统计
@@ -27,12 +58,7 @@
 
 ---
 
-## 📬 联系我
 
-- 📧 **Email**: [点击这里发送邮件](mailto:851347413@qq.com)
-- 💬 **微信**: Hensuixingderen（备注 GitHub）
-- 🌏 **博客**: [正在建设中...]
----
 ✨ **感谢访问！如果觉得不错，记得给个 Star ⭐ 或 Follow ➕ 哦！**
 
 ![Streak](https://streak-stats.demolab.com?user=Hensuixingderen&theme=tokyonight)
