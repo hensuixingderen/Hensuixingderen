@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- 替换为你的本地头像链接 -->
-  <img src="https://github.com/Hensuixingderen/Hensuixingderen/blob/main/images/my-avatar.jpg?raw=true" width="200" style="border-radius: 50%; border: 3px solid #7aa2f7;" alt="Avatar" />
+  <img src="https://raw.githubusercontent.com/hensuixingderen/hensuixingderen/main/images/avatar.jpg" width="200" style="border-radius: 50%; border: 3px solid #7aa2f7;" alt="Avatar" />
   <h1>Hi, I'm Hensuixingderen 👋</h1>
   <p><em>Java Full Stack Developer | AI Integration Enthusiast | Open Source Explorer</em></p>
   <p>From China · Building intelligent systems with Spring Boot & Vue ☕</p>
