@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/Hensuixingderen/Hensuixingderen/blob/main/images/avatar.png?raw=true" width="200" style="border-radius: 50%;" alt="Avatar" />
+  <img src="<img src="https://avatars.githubusercontent.com/u/90543866?v=4" width="200" style="border-radius: 50%;" alt="Avatar" />
   <h1>Hi, I'm Hensuixingderen 👋</h1>
   <p><em>Java Full Stack Developer | Vue Enthusiast | Open Source Explorer</em></p>
   <p>From China · Building cool stuff with code ☕</p>
