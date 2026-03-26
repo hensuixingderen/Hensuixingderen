@@ -30,7 +30,7 @@
 
 ## 📬 联系我
 
-- 📧 **Email**: [点击这里发送邮件](mailto:your-email@example.com)
+- 📧 **Email**: [点击这里发送邮件](mailto:851347413@qq.com)
 - 💬 **微信**: Hensuixingderen（备注 GitHub）
 - 🌏 **博客**: [正在建设中...]
 - 🐦 **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter) *(可选)*
