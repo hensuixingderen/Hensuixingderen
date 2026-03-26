@@ -1,6 +1,5 @@
 
 <div align="center">
-  <!-- 圆形+边框+阴影，和左侧账号头像形成区分 -->
   <img src="images/avatar.jpg" width="200" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" alt="Avatar">
   <h1>Hi, I'm Hensuixingderen 👋</h1>
   <p><em>Java Full Stack Developer | AI Integration Enthusiast | Open Source Explorer</em></p>
