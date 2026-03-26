@@ -48,7 +48,13 @@
   </table>
 </div>
 
-> 💡 项目链接请替换为你实际的 GitHub 仓库地址。如果没有公开仓库，可以先设为私有或创建占位项目。
+### 💼 Internship Experience
+
+<div align="center">
+  <strong>福建国科信息科技有限公司</strong> · Java 开发实习生<br>
+  <em>2024.06 – 2024.09</em><br>
+  参与企业级后台管理系统开发，负责模块设计与接口联调，提升系统响应速度 30%。
+</div>
 
 ---
 
