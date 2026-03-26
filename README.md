@@ -33,10 +33,7 @@
 - 📧 **Email**: [点击这里发送邮件](mailto:851347413@qq.com)
 - 💬 **微信**: Hensuixingderen（备注 GitHub）
 - 🌏 **博客**: [正在建设中...]
-- 🐦 **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter) *(可选)*
-
 ---
-
 ✨ **感谢访问！如果觉得不错，记得给个 Star ⭐ 或 Follow ➕ 哦！**
 
 ![Streak](https://streak-stats.demolab.com?user=Hensuixingderen&theme=tokyonight)
